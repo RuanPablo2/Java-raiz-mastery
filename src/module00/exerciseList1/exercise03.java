@@ -1,5 +1,8 @@
 package module00.exerciseList1;
 
+//3. Inversão de Array de Inteiros
+//Objetivo: Dado um array {1, 2, 3, 4, 5}, inverter a posição dos elementos sem usar bibliotecas.
+//Saída Esperada: "Array Original: [1, 2, 3, 4, 5] | Array Invertido: [5, 4, 3, 2, 1]"
 public class exercise03 {
     public static void main(String[] args) {
         int[] array = {1, 2, 3, 4, 5};

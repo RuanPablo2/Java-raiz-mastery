@@ -2,6 +2,9 @@ package module00.exerciseList1;
 
 import java.util.Scanner;
 
+//1. Cálculo de Juros Compostos
+//Objetivo: Receber um capital inicial, taxa de juros mensal e tempo. Calcular o montante final.
+//Saída Esperada: "Investimento inicial: R$ 1000.0, após 12 meses a 1%: R$ 1126.83"
 public class exercise01 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

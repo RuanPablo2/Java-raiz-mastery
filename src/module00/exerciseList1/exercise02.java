@@ -2,6 +2,9 @@ package module00.exerciseList1;
 
 import java.util.Scanner;
 
+//2. Verificador de Números Primos
+//Objetivo: Criar um laço que verifique se um número é divisível apenas por 1 e por ele mesmo.
+//Saída Esperada: "O número 17 é primo. O número 20 não é primo."
 public class exercise02 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
